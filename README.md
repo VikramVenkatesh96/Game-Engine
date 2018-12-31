@@ -1,5 +1,5 @@
 # Game-Engine
-A small scale model game-engine written in Java.<br />
+### A small scale model game-engine written in Java.<br />
 Features implemented till now:
 * Day-Night Cycle with moving skybox.
 * Terrain Generation from HeightMaps.
