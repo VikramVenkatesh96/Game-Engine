@@ -35,6 +35,7 @@ private SkyBoxRenderer skyrender;
 private Map<TexturedModel,List<Entity>> entities=new HashMap<TexturedModel,List<Entity>>();
 private List<Terrain> terrains=new ArrayList<Terrain>();;
 
+//Main render method to be called by main class
 public void render(List<Light> lights,Camera camera){
 	Prepare();
 	shader.start();
